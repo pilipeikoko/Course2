@@ -1,0 +1,49 @@
+﻿  UndirectedGraphTests.cpp
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(450,1): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(634): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Undirected_graph<Value_type>"
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(451,1): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(462,1): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(463,1): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(714,1): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(731,1): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(807,1): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(833,1): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(890,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(889): message : во время компиляции функции-члена класс шаблон "void Undirected_graph<int>::remove_edge_by_iterator(Undirected_graph<int>::Iterator_constant_edges)"
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\Undirected_graph_tests\UndirectedGraphTests.cpp(266): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Undirected_graph<int>::remove_edge_by_iterator(Undirected_graph<int>::Iterator_constant_edges)"
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(891,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(877,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(876): message : во время компиляции функции-члена класс шаблон "void Undirected_graph<int>::remove_edge_by_iterator(Undirected_graph<int>::Iterator_edges)"
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\Undirected_graph_tests\UndirectedGraphTests.cpp(245): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Undirected_graph<int>::remove_edge_by_iterator(Undirected_graph<int>::Iterator_edges)"
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(878,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(919,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(917): message : во время компиляции функции-члена класс шаблон "void Undirected_graph<int>::remove_vertex_by_iterator(Undirected_graph<int>::Iterator_constant_vertexes)"
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\Undirected_graph_tests\UndirectedGraphTests.cpp(225): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Undirected_graph<int>::remove_vertex_by_iterator(Undirected_graph<int>::Iterator_constant_vertexes)"
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(922,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(903,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(901): message : во время компиляции функции-члена класс шаблон "void Undirected_graph<int>::remove_vertex_by_iterator(Undirected_graph<int>::Iterator_vertexes)"
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\Undirected_graph_tests\UndirectedGraphTests.cpp(187): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Undirected_graph<int>::remove_vertex_by_iterator(Undirected_graph<int>::Iterator_vertexes)"
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(906,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(668,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(667): message : во время компиляции функции-члена класс шаблон "int Undirected_graph<int>::find_index_of_vertex(Value_type)"
+          with
+          [
+              Value_type=int
+          ]
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(756): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Undirected_graph<int>::find_index_of_vertex(Value_type)"
+          with
+          [
+              Value_type=int
+          ]
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\UndirectedGraph\UndirectedGraph.hpp(745): message : во время компиляции функции-члена класс шаблон "int Undirected_graph<int>::count_degree_of_edge(Value_type,Value_type)"
+          with
+          [
+              Value_type=int
+          ]
+C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\Undirected_graph_tests\UndirectedGraphTests.cpp(135): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Undirected_graph<int>::count_degree_of_edge(Value_type,Value_type)"
+          with
+          [
+              Value_type=int
+          ]
+     Создается библиотека C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\Debug\Undirected_graph_tests.lib и объект C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\Debug\Undirected_graph_tests.exp
+  Undirected_graph_tests.vcxproj -> C:\Users\pilip\git\SDiIS\Lab4\UndirectedGraph\Debug\Undirected_graph_tests.dll
